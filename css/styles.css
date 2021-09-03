@@ -265,8 +265,8 @@ main article .img-article img {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
-  height: 60%;
-  margin-bottom: 1em;
+  height: 100%;
+  margin-bottom: 10%;
   position: absolute;
 }
 
@@ -432,7 +432,7 @@ footer .link-us {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  gap: 5em;
+  gap: 2em;
   margin-bottom: 2em;
 }
 

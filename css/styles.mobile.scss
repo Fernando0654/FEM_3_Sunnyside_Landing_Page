@@ -49,6 +49,7 @@ header {
     }
   }
   .icon-wrap h1 {
+    text-align: center;
     font-size: 2rem;
   }
 }
@@ -83,7 +84,7 @@ main .article-footer .footer-box {
   width: 100%;
   .img-text {
     height: 100%;
-    margin-bottom: 0;
+    margin-bottom: 10%;
     justify-content: flex-end;
     h1 {
       font-size: 2rem;
