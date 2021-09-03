@@ -116,7 +116,6 @@ main .article-footer .footer-box {
 
 main .article-footer .footer-box .img-text {
   height: 100%;
-  margin-bottom: 10%;
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
@@ -127,6 +126,7 @@ main .article-footer .footer-box .img-text h1 {
 }
 
 main .article-footer .footer-box .img-text p {
+  width: 90%;
   font-size: 1rem;
 }
 
@@ -149,7 +149,7 @@ main .client-testimonials .testimonial-content .testimonial-card img {
 }
 
 main .client-testimonials .testimonial-content .testimonial-card p {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 main .client-testimonials .testimonial-content .testimonial-card h2 {

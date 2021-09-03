@@ -84,12 +84,12 @@ main .article-footer .footer-box {
   width: 100%;
   .img-text {
     height: 100%;
-    margin-bottom: 10%;
     justify-content: flex-end;
     h1 {
       font-size: 2rem;
     }
     p {
+      width: 90%;
       font-size: 1rem;
     }
   }
@@ -103,7 +103,7 @@ main .client-testimonials .testimonial-content {
       margin-top: 2em;
     }
     p {
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
     h2 {
       font-size: 2rem;
